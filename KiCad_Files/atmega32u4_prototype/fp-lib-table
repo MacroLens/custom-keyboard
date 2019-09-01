@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name keebs)(type KiCad)(uri D:/Downloads/keebs.pretty-master)(options "")(descr ""))
-  (lib (name keyboard_parts)(type KiCad)(uri D:/Downloads/keyboard_parts.pretty-master)(options "")(descr ""))
-  (lib (name kicad_lib_tmk-master)(type KiCad)(uri D:/Downloads/kicad_lib_tmk-master)(options "")(descr ""))
-  (lib (name mullet-master)(type KiCad)(uri D:/Downloads/mullet-master)(options "")(descr ""))
-)
