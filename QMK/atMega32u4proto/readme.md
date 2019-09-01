@@ -1,6 +1,6 @@
 # atMega32u4proto
 
-[atMega32u4proto](https://i.imgur.com/Ij5ZAi3.png)
+![atMega32u4proto](https://i.imgur.com/Ij5ZAi3)
 
 Dylan's ProtoBoard, This uses the atmega32u4 as a controller and has only 2x2 matrix for testing.
 
