@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name Button_Switch_Keyboard)(type KiCad)(uri D:/Desktop/custom/Button_Switch_Keyboard.pretty)(options "")(descr ""))
+  (lib (name Button_Switch_Keyboard)(type KiCad)(uri D:/Desktop/custom/KiCad_Files/at90usb1286_prototype/Button_Switch_Keyboard.pretty)(options "")(descr ""))
+  (lib (name kicad_lib_tmk-master)(type KiCad)(uri D:/Desktop/custom/KiCad_Files/at90usb1286_prototype/kicad_lib_tmk-master)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri D:/Desktop/custom/KiCad_Files/at90usb1286_prototype/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
 )
